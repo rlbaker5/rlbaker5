@@ -6,5 +6,5 @@ I'm a plant evolutionary biologist by training and a data scientist by trade. Th
 
 If you're interested in my work at the [National Park Service](https://github.com/nationalparkservice) on creating workflows and tools for authoring metadata and OPEN, FAIR data publication (🖥📈), please see my [other GitHub account](https://github.com/RobLBaker).
 
-[<img src="ORCIDiD_icon32x32.png" width = 32x>](https://orcid.org/0000-0001-7591-5035) &emsp; [<img src="LI-In-Bug.png" width = 32x>](https://www.linkedin.com/in/robertlbaker) &emsp; [<img src="32px-Google_Scholar_logo.svg.png" width = 32x>](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&l=en)
+[<img src="ORCIDiD_icon32x32.png" width = 64x>](https://orcid.org/0000-0001-7591-5035) &emsp; [<img src="LI-In-Bug.png" width = 64x>](https://www.linkedin.com/in/robertlbaker) &emsp; [<img src="32px-Google_Scholar_logo.svg.png" width = 64x>](https://scholar.google.com/citations?user=8jyV2CEAAAAJ&l=en) &emsp; [<img scr="Wiley_72x72_2025.png" width = 64x>](https://doi.org/10.1002/aps3.11605)
 
